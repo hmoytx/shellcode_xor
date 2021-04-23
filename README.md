@@ -2,6 +2,8 @@
 
 
 
+
+
 # About it
 This script is used to xor confusion of shellcode.  
 
